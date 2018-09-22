@@ -10,6 +10,6 @@ The corpus is released in very popular Common Crawl WARC format, making it very 
 The total corpus is currently 150 GB in size, but it is constantly growing. We have setup a distributed web crawler (using Apache Nutch) which is continuously crawling popular Bangla sites, storing it in MongoDB and indexing it in ElasticSearch. 
 
 ### How To Get The Full Version
-Due to it's large size, only a sample of 7 MB is available in Github. If you need the full version, we can arrange a way to send the dataset to you. Please email at <contact@socian.xyz>
+Due to it's large size, only a sample of 7 MB is available in Github. If you need the full version, we can arrange a way to send the dataset to you. Please email at <contact@socian.ai>
 ### License
 The corpus is licensed under GNU GPLv3, making it very easy to anyone to use the data for any purpose.
